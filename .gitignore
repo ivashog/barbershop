@@ -1,0 +1,10 @@
+node_modules/
+.idea
+*.log
+*.ai
+*.log
+*.pdf
+*.psd
+*.sublime*
+npm-debug.*
+.DS_Store
